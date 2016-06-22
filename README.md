@@ -1,1 +1,0 @@
-# vegetation_classification_tutorial
